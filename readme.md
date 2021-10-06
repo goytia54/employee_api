@@ -5,5 +5,5 @@
 * run `pip install -r requirements` to get all deps
 * `export PORT=<desired port>` to set port for api run and curl cmd 
 * run api with `flask run --port=$PORT` 
-* curl localhost:$PORT/employees
+* `curl localhost:$PORT/employees`
 * when all done type `deactivate` to get out of virtual env
